@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/45-best-quotes-about-nature/static/css/main.6fa6a853.css",
+    "main.js": "/45-best-quotes-about-nature/static/js/main.8867a38f.js",
+    "static/js/787.b9256eb1.chunk.js": "/45-best-quotes-about-nature/static/js/787.b9256eb1.chunk.js",
+    "index.html": "/45-best-quotes-about-nature/index.html",
+    "main.6fa6a853.css.map": "/45-best-quotes-about-nature/static/css/main.6fa6a853.css.map",
+    "main.8867a38f.js.map": "/45-best-quotes-about-nature/static/js/main.8867a38f.js.map",
+    "787.b9256eb1.chunk.js.map": "/45-best-quotes-about-nature/static/js/787.b9256eb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fa6a853.css",
+    "static/js/main.8867a38f.js"
+  ]
+}
